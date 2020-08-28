@@ -7,12 +7,12 @@ NOTE :  THIS IS ONLY FOR EDUCATIONAL PURPOSE
 
 # :information_source: Table of Contents
 <ul>
-  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/README.md#Installation">Installation</a></li>
-  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/README.md#Features">Features</a></li>
-  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/README.md#Developer">Developer</a></li>
-  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/README.md#ScreenShots">FAQ</a></li>
-  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/README.md#Lesson">Lesson</a></li>
-  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/README.md#Thankyou">Thankyou</a></li>
+  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot#installation-and-usage">Installation</a></li>
+  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/#Features">Features</a></li>
+  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/#Developer">Developer</a></li>
+  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/#ScreenShots">FAQ</a></li>
+  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/#Lesson">Lesson</a></li>
+  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/#Thankyou">Thankyou</a></li>
  </ul>
 
 
