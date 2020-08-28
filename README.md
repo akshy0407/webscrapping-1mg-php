@@ -1,4 +1,4 @@
-# Webscrapping 1mg Php ( Telegram Bot )
+# webscrapping-1mg-php-telegrambot
 
 Medico is a telegram bot which provide medicine information.</br>
 Medico uses Goutte php web scrapper to scrap data from 1mg.com
