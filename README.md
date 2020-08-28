@@ -3,7 +3,7 @@
 Medico is a telegram bot which provide medicine information.</br>
 Medico uses Goutte php web scrapper to scrap data from 1mg.com
 
-Telegram Bot Link : ttps://t.me/Medicoonlinebot
+Telegram Bot Link : https://t.me/Medicoonlinebot
 
 NOTE :  THIS IS ONLY FOR EDUCATIONAL PURPOSE
 
