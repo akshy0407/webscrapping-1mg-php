@@ -1,7 +1,7 @@
 <?php
 include ('vendor/autoload.php');
 
-$path = "https://api.telegram.org/bot1199116258:AAHVP3hAxsTo9AC7nNcIeYFag9Nov-7aZuk";
+$path = "https://api.telegram.org/bot#api";
 
 $update = json_decode(file_get_contents("php://input") , true);
 
