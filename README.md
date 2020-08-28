@@ -3,16 +3,18 @@
 Medico is a telegram bot which provide medicine information.</br>
 Medico uses Goutte php web scrapper to scrap data from 1mg.com
 
+Telegram Bot Link : ttps://t.me/Medicoonlinebot
+
 NOTE :  THIS IS ONLY FOR EDUCATIONAL PURPOSE
 
 # :information_source: Table of Contents
 <ul>
-  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot#installation-and-usage">Installation</a></li>
-  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/#Features">Features</a></li>
-  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/#Developer">Developer</a></li>
-  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/#ScreenShots">FAQ</a></li>
-  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/#Lesson">Lesson</a></li>
-  <li><a href="https://github.com/akshy0407/webscrapping-1mg-php-telegrambot/#Thankyou">Thankyou</a></li>
+  <li><a href="#installation-and-usage">Installation</a></li>
+  <li><a href="#Features">Features</a></li>
+  <li><a href="#Developer">Developer</a></li>
+  <li><a href="#ScreenShots">FAQ</a></li>
+  <li><a href="#Lesson">Lesson</a></li>
+  <li><a href="#Thankyou">Thankyou</a></li>
  </ul>
 
 
@@ -61,4 +63,5 @@ After creating this telegram bot i got knowledge on
 3.How to build telegram bot using php
 4.Telegram bot inline keyboard and callback
 
-# Thankyou
+# Thankyou 
+
