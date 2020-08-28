@@ -5,7 +5,7 @@ Medico uses Goutte php web scrapper to scrap data from 1mg.com
 
 Telegram Bot Link : https://t.me/Medicoonlinebot
 
-NOTE :  THIS IS ONLY FOR EDUCATIONAL PURPOSE
+NOTE :  THIS IS ONLY FOR EDUCATIONAL PURPOSE :school:
 
 # :information_source: Table of Contents
 <ul>
@@ -18,7 +18,7 @@ NOTE :  THIS IS ONLY FOR EDUCATIONAL PURPOSE
  </ul>
 
 
-# Installation and Usage
+# :zap: Installation and Usage
 
 Step 1 : Goutte
 
@@ -38,7 +38,7 @@ Step 5 : Update the bot api in the medico.php File.
 
 Step 6 : Run :relieved:
 
-# Features
+# :fire: Features
 This telegram bot scrap data fom 1mg.com. Just send medicine name and get list of all matching medicine. Select the proper medicine and get all the information for the same.
 Also purchase link will be given so if you need can order on 1mg.com
 
@@ -63,5 +63,5 @@ After creating this telegram bot i got knowledge on
 3.How to build telegram bot using php
 4.Telegram bot inline keyboard and callback
 
-# Thankyou 
+# :star: Thankyou 
 
